@@ -107,7 +107,7 @@ about (){
 	echo -e "   $r[$w+\033[31m]$g ABOUT $w: $g"
 	echo
 	sleep 0.2
-	echo -e "  This tool created by R3X SKIDS, C0d3py and also Pinoy "
+	echo -e "  This tool created by R3X SKIDS/Terrius punk, C0d3py and also Pinoy "
 	echo -e "  ClaySec members. "
 	echo
 	echo
