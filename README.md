@@ -21,4 +21,4 @@ Simple phishing tool with 3 phishing pages template
 <i>Eyephisher is a simple phishing tool written in bash, it also a begginer friendly with 3 phishing pages templates.</i></p>
 
 <p align="center"><h3> Disclaimer :</h3>
-<i>This is tool is made for educational purposes only. The tool creator is in no way responsible for any misuse of this tool</i></p>
+<i>This tool is made for educational purposes only. The tool creator is in no way responsible for any misuse of this tool</i></p>
