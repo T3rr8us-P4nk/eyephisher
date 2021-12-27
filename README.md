@@ -22,3 +22,25 @@ Simple phishing tool with 3 phishing pages template
 
 <p align="center"><h3> Disclaimer :</h3>
 <i>This tool is made for educational purposes only. The tool creator is in no way responsible for any misuse of this tool</i></p>
+
+### Installation
+
+- Just, Clone this repository -
+```
+$ git clone https://github.com/T3rr8us-P4nk/eyephisher.git
+```
+
+- Change to cloned directory - 
+```
+$ cd eyephisher
+```
+- Setup eyephisher, type & enter -
+```
+$ bash setup.sh
+```
+- then click `y` = yes to download ngrok and then put your ngrok authtoken
+
+- Run eyephisher -
+```
+$ bash eyephisher.sh
+```
