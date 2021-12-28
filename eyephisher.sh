@@ -159,7 +159,7 @@ more (){
 		apt update && apt upgrade -y
 		apt install git
 		apt install python
-		git clone http://github.com/T3rr8us-P4nk/Pyr4-Tool
+		git clone https://github.com/T3rr8us-P4nk/pyra-Installer
 		sleep 1
 		exit 1
 	elif [[ "$more" == "2" || "$more" == "02" ]];
