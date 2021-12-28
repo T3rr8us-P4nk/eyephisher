@@ -60,7 +60,7 @@ setup (){
 		mv ngrok $HOME/eyephisher/
 		cd $HOME/eyephisher/
 		chmod +x ngrok
-		cd ..
+		cd $HOME
 		rm -rf termux-ngrok
 		echo -e " Download done  "
 		authtokens
