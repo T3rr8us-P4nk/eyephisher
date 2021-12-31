@@ -47,12 +47,14 @@ $ bash eyephisher.sh
 
 ### Screenshots :
 <p align="left">
+- Termux
 <img src="https://raw.githubusercontent.com/T3rr8us-P4nk/eyephisher/main/images/Screenshot_2021_1227_213646.png">
-<img src="https://raw.githubusercontent.com/T3rr8us-P4nk/eyephisher/main/images/Screenshot_2021_1227_213309.png">
+- Kali Linux (Android)
+
 </p>
 
 ### Tutorial :
-[http://youtube.com/owisjsjms](http)
+[https://youtu.be/LIsZMXefyh8](https://youtu.be/LIsZMXefyh8)
 
 <br>
 
