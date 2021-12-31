@@ -16,6 +16,7 @@ apt update && apt upgrade -y
 apt install curl -y
 apt install git -y
 apt install bash -y
+apt install php -y
 
 #---------banner
 banner (){
