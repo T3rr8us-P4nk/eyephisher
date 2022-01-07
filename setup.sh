@@ -55,8 +55,8 @@ setup (){
 	if [[ "$input1" == "y" || "$input1" == "Y" ]];
 	then
 		cd $HOME
-		git clone https://github.com/T3rr8us-P4nk/ngrok-termux/ > /dev/null 2>&1 &
-                sleep 0
+		git clone https://github.com/T3rr8us-P4nk/ngrok-termux/ > /dev/null 2>&1 &&
+                sleep 1
 		cd ngrok-termux
 		unzip ngrok.zip
 		mv ngrok $HOME/eyephisher/
