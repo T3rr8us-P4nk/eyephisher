@@ -1,5 +1,4 @@
-#---------Created By Anon3x0s Team / Pinoy ClaySec---------#
-#---------Simple phishing site :)---------#
+#---------Simple phishing tool :)---------#
 
 
 #---------colors
