@@ -127,7 +127,7 @@ about (){
 	echo
 	sleep 0.2
 	echo -e "   $r[$w+$r]$g Greetings & Credit $w: $g "
-	echo -e "  L3nc3$w -$g Fl3mc3$w -$g C0d3py$w -$g GrinXz$w -$g S4SHZ-X$w -$g PINOY CLAYSEC$w -$g AND ALL OF MY MASTERS"
+	echo -e "  L3nc3$w -$g Fl3mc3$w -$g C0d3py$w -$g GrinXz(Xcy)$w -$g S4SHZ-X$w -$g PINOY CLAYSEC$w -$g AND ALL OF MY MASTERS"
 	echo
 }
 
