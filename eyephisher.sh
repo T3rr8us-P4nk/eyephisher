@@ -30,7 +30,7 @@ echo -e "    ██████╔╝███████║██║███�
 echo -e "    ██╔═══╝ ██╔══██║██║╚════██║██╔══██║██╔══╝  ██╔══██╗"
 echo -e "    ██║     ██║  ██║██║███████║██║  ██║███████╗██║  ██║"
 echo -e "    ╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝      "
-echo -e "           $g[$w~$g]$c Tool Created by Anon3x0s Team $g[$w~$g]"
+echo -e "           $g[$w~$g]$c Tool Created by T3RR8US P4NK $g[$w~$g]"
 
 	echo
 	echo
